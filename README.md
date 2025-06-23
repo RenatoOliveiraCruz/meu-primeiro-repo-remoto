@@ -10,3 +10,5 @@ Este foi o meu primeiro repositório remoto criado para trabalhar com o GitHub!
 
 Confira meu perfil em: [Renato Oliveira](https://github.com/RenatoOliveiraCruz)
 
+Atualizado em Junho 2025
+
